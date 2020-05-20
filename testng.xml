@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name=" Propine Automation Suite">
+	
+	<test name="Date Parser scenarios">
+		<classes>
+			<class name="testScenarios.DateParser" />
+		</classes>
+	</test>  
+</suite>
